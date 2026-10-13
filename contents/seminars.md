@@ -45,9 +45,9 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
   <div class="seminar-content">
     <strong>Title:</strong>
-      <a href="abstract.html?id=2614" target="_blank">From small eigenvalues to large cuts, and Chowla’s cosine problem</a><br />
+      <a href="abstract.html?id=2616" target="_blank">Andersen’s rainbow path conjecture</a><br />
        <strong>Speaker:</strong>
-   <a href="https://pascalprimer.github.io/publications/" target="_blank" rel="noopener">Zhihan Jin</a><br />
+   <a href="https://sites.google.com/view/candidabowtell" target="_blank" rel="noopener">Candida Bowtell</a><br />
   </div>
 </div>
 
