@@ -1,4 +1,11 @@
 {
+    "2616": {
+        "name": "Candida Bowtell",
+        "title": "Andersen’s rainbow path conjecture",
+        "date": "2026-10-22: 17:00-18:00 (UTC +8)",
+        "abstract": "<div style=\"word-break: normal; overflow-wrap: break-word; hyphens: auto; text-align: justify;\">In 1989, Andersen conjectured that every properly edge-coloured complete graph on $n$ vertices contains a rainbow path covering at least $n-1$ vertices. That is, a path which uses any colour at most once. We confirm this conjecture for sufficiently large $n$, moreover, showing that when at least n colours are used, one can find a rainbow Hamilton path. Our proof combines results of Montgomery on rainbow matchings in bipartite graphs with a novel relaxation of a sorting network. This is joint work with Richard Montgomery, Alp Müyesser and Alexey Pokrovskiy.</div>",
+        "bio": "<div style=\"word-break: normal; overflow-wrap: break-word; hyphens: auto; text-align: justify;\">Candida Bowtell has been an Assistant Professor at the University of Birmingham since September 2025. She previously held a Leverhulme Early Career Fellowship and before that completed a postdoctoral position with Professor Richard Montgomery (Warwick) and completed her DPhil at the University of Oxford, supervised by Professor Peter Keevash. Her research interests lie in extremal and probabilistic combinatorics, and many of her projects concern finding large structures in graphs and hypergraphs under certain natural constraints.</div>"
+    },
    "2615": {
         "name": "Arjun Ranganathan",
         "title": "Exact minimum co-degree bounds for tight Hamilton cycles ",
