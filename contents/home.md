@@ -39,11 +39,11 @@ extremal combinatorics, and discrete mathematics.</p>
 
 
 <div class="news-item">
- We are pleased to announce that <strong> <a href="https://pascalprimer.github.io/publications/" target="_blank" rel="noopener">Zhihan Jin</a></strong> will give a talk on July 23, 2026.
-    The title of his talk is <strong><em>“  <a href="abstract.html?id=2614" target="_blank" rel="noopener">From small eigenvalues to large cuts and Chowla's cosine problem</a>”</em></strong>.
+ We are pleased to announce that <strong> <a href="https://sites.google.com/view/candidabowtell" target="_blank" rel="noopener">Candida Bowtell</a></strong> will give a talk on October 22, 2026.
+    The title of her talk is <strong><em>“  <a href="abstract.html?id=2616" target="_blank" rel="noopener">Andersen’s rainbow path conjecture</a>”</em></strong>.
   </p>
  
-  <strong>Time:</strong> 16:00–17:10 (UTC+8)</strong>;
+  <strong>Time:</strong> 17:00–18:00 (UTC+8)</strong>;
   
    <strong>Zoom ID:</strong> <a href="https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1" target="_blank" rel="noopener">
       632 7868 8120
