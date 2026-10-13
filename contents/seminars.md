@@ -37,7 +37,19 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
 ### <a id="1"></a>Upcoming Online Talks
 
+<div class="seminar-item">
+  <div class="seminar-date">
+    <strong style="font-size: 17px;">October 22</strong>
+    <span style="font-size: 17px;">2026</span>
+  </div>
 
+  <div class="seminar-content">
+    <strong>Title:</strong>
+      <a href="abstract.html?id=2614" target="_blank">From small eigenvalues to large cuts, and Chowla’s cosine problem</a><br />
+       <strong>Speaker:</strong>
+   <a href="https://pascalprimer.github.io/publications/" target="_blank" rel="noopener">Zhihan Jin</a><br />
+  </div>
+</div>
 
 ### Previous Online Talks
 
@@ -285,6 +297,10 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
 ### <a id="2"></a>Upcoming Offline Talks
 
+
+
+### Previous Offline Talks
+
 <div class="seminar-item">
   <div class="seminar-date">
     <strong style="font-size: 17px;">September 29</strong>
@@ -313,7 +329,6 @@ All time in this webpage refers to Beijing Time (GMT+8).
   </div>
 </div>
 
-### Previous Offline Talks
 
 <div class="seminar-item">
   <div class="seminar-date">
