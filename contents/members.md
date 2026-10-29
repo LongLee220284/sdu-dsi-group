@@ -38,15 +38,8 @@
  <ul style="list-style-type: none; padding: 0; margin: 0; width: 100%; box-sizing: border-box;">
   <li>
     <div style="display: flex; flex-wrap: wrap; gap: 15px; width: 100%; box-sizing: border-box;">
-      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Wanting Sun</div>
-      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Qiancheng Ouyang</div>
-      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;"><a href="https://wenling-zhou.github.io/" target="_blank" rel="noopener">Wenling Zhou</a></div>
-      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Weichan Liu</div>
-      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Xinyu Hu</div>
-      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;"><a href="https://yunwang-sdu.github.io/yunwang.github.io/" target="_blank" rel="noopener">Yun Wang</a></div> 
-      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Xiangxiang Nie</div>
-      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Linpeng Zhang</div>
-      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Jialu Zhu</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Fanpeng Song</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;"><a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=L3oKQ_gAAAAJ" target="_blank" rel="noopener">Xu Zhang</a></div>
       </div>
   </li>
 </ul>
