@@ -10,10 +10,10 @@
   </div>
 
   <div class="faculty-card">
-    <img src="static/assets/img/Jin Yan.jpg" alt="Prof. Jin Yan" class="faculty-photo">
+    <img src="static/assets/img/CunquanQu.png" alt="Assoc. Cunquan Qu" class="faculty-photo">
     <div class="faculty-name">
-      <a href="https://faculty.sdu.edu.cn/yanjin/zh_CN/index.htm" target="_blank" rel="noopener">
-        Prof. Jin Yan
+      <a href="https://faculty.sdu.edu.cn/qucunquan/zh_CN/index.htm" target="_blank" rel="noopener">
+        Assoc. Cunquan Qu
       </a>
     </div>
   </div>
