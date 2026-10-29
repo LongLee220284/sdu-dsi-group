@@ -19,10 +19,10 @@
   </div>
 
   <div class="faculty-card">
-    <img src="static/assets/img/Donglei Yang.png" alt="Prof. Donglei Yang" class="faculty-photo">
+    <img src="static/assets/img/LonglongLi.png" alt="Dr.Longlong Li" class="faculty-photo">
     <div class="faculty-name">
-      <a href="https://faculty.sdu.edu.cn/yangdonglei1/zh_CN/index.htm" target="_blank" rel="noopener">
-        Prof. Donglei Yang
+      <a href="https://longlee220.github.io/" target="_blank" rel="noopener">
+        Dr.Longlong Li
       </a>
     </div>
   </div>
