@@ -62,9 +62,10 @@
   <li style="margin-bottom: 10px;">
     <!--<strong>Current:</strong>-->
     <div style="display: flex; flex-wrap: wrap; gap: 15px; width: 100%; box-sizing: border-box;">
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Mengjie Chen</div>
       <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;"><a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=vz3h2YEAAAAJ" target="_blank" rel="noopener">Mengyang Zhao</a></div>
       <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;"><a href="https://yychi-code.github.io/yunchi130.github.io/" target="_blank" rel="noopener">Yunchi Yang</a></div>
-      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Longma Du</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Yunjing Sun</div>
       <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Nannan Chen</div>
       <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Jie Wang</div>
       <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Mengyang Zhao</div>
