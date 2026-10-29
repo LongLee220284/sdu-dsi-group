@@ -1,7 +1,7 @@
 <p class="home-welcome">
 Welcome to the homepage of the <strong>SDU Data Science Group</strong>, led by
 Prof. <strong><a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener">Guanghui Wang</a></strong>,
-Prof. <strong><a href="https://faculty.sdu.edu.cn/yanjin/zh_CN/index.htm" target="_blank" rel="noopener">Jin Yan</a></strong>
+Prof. <strong><a href="https://faculty.sdu.edu.cn/qucunquan/zh_CN/index.htm" target="_blank" rel="noopener">Cunquan Qu</a></strong>
 and Prof. <strong><a href="https://faculty.sdu.edu.cn/yangdonglei1/zh_CN/index.htm" target="_blank" rel="noopener">DongLei Yang</a></strong>.
 </p>
 
@@ -9,10 +9,10 @@ and Prof. <strong><a href="https://faculty.sdu.edu.cn/yangdonglei1/zh_CN/index.h
 <div class="home-main">
 <h2 class="home-section-title">Introduction</h2>
 <p class="home-intro">
-The SDU DSI Group focuses on fundamental problems in combinatorics,
+The SDU Data Science Group focuses on fundamental problems in combinatorics,
 with particular emphasis on graph theory, probabilistic methods,
 extremal combinatorics, and discrete mathematics.</p>
-<p style="font-size: 26px;"><strong>Scan the code to follow our WeChat Official Account: SDU Comb Group.</strong></p>
+<p style="font-size: 26px;"><strong>Scan the code to follow our WeChat Official Account: SDU Data Science Group.</strong></p>
 <body>
     <img src="static/assets/img/SDU Comb Group.jpg" width="300">
 </body>
