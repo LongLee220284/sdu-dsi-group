@@ -19,7 +19,7 @@
   </div>
 
   <div class="faculty-card">
-    <img src="static/assets/img/LonglongLi.png" alt="Dr.Longlong Li" class="faculty-photo">
+    <img src="static/assets/img/LonglongLi.png" alt="Dr. Longlong Li" class="faculty-photo">
     <div class="faculty-name">
       <a href="https://longlee220.github.io/" target="_blank" rel="noopener">
         Dr.Longlong Li
